@@ -11,11 +11,13 @@ namespace VS_2013_Git_Demo
         static void Main(string[] args)
         {
             // Local changes
-            Console.WriteLine("Hello tuzik!");
+            Console.WriteLine("Hello git!");
 
             // some more changes
 
             //more changes
+
+            // last change before push
         }
     }
 }
