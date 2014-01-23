@@ -10,7 +10,10 @@ namespace VS_2013_Git_Demo
     {
         static void Main(string[] args)
         {
+            // Local changes
             Console.WriteLine("Hello tuzik!");
+
+            // some more changes
         }
     }
 }
