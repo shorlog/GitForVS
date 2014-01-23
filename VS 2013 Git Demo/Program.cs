@@ -14,6 +14,8 @@ namespace VS_2013_Git_Demo
             Console.WriteLine("Hello tuzik!");
 
             // some more changes
+
+            //more changes
         }
     }
 }
